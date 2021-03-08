@@ -69,7 +69,34 @@
 }
 
 .text h2 {
-    font-size: 4em;
+    font-size: 5em;
+    font-weight: 700;
+    line-height: 1em;
+}
+
+.text h3 {
+    margin: 1.8rem 0;
+    font-size: 2.5em;
+    font-weight: 700;
+    line-height: 1em;
+}
+
+.text p {
+    font-size: 1.1em;
+    font-weight: 400;
+    max-width: 700px;
+}
+
+.text a {
+    display: inline-block;
+    font-size: 1em;
+    background: #fff;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: #111;
+    margin-top: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 
